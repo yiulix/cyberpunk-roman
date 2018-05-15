@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bike-prototype", "bike-prototype.csproj", "{9B97E791-CFBB-739A-DE37-F5062F91AEAE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bike-prototype.Plugins", "bike-prototype.Plugins.csproj", "{60687C0E-8567-F098-014C-4841991B8E59}"
